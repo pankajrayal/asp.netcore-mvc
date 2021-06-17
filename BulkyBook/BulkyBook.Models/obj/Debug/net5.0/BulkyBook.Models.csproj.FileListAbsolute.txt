@@ -2,7 +2,6 @@ C:\Users\prayal\Desktop\Personal\Learning\Current\code\asp.netcore-mvc\BulkyBook
 C:\Users\prayal\Desktop\Personal\Learning\Current\code\asp.netcore-mvc\BulkyBook\BulkyBook.Models\bin\Debug\net5.0\BulkyBook.Models.dll
 C:\Users\prayal\Desktop\Personal\Learning\Current\code\asp.netcore-mvc\BulkyBook\BulkyBook.Models\bin\Debug\net5.0\ref\BulkyBook.Models.dll
 C:\Users\prayal\Desktop\Personal\Learning\Current\code\asp.netcore-mvc\BulkyBook\BulkyBook.Models\bin\Debug\net5.0\BulkyBook.Models.pdb
-C:\Users\prayal\Desktop\Personal\Learning\Current\code\asp.netcore-mvc\BulkyBook\BulkyBook.Models\obj\Debug\net5.0\BulkyBook.Models.csprojAssemblyReference.cache
 C:\Users\prayal\Desktop\Personal\Learning\Current\code\asp.netcore-mvc\BulkyBook\BulkyBook.Models\obj\Debug\net5.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\prayal\Desktop\Personal\Learning\Current\code\asp.netcore-mvc\BulkyBook\BulkyBook.Models\obj\Debug\net5.0\BulkyBook.Models.AssemblyInfoInputs.cache
 C:\Users\prayal\Desktop\Personal\Learning\Current\code\asp.netcore-mvc\BulkyBook\BulkyBook.Models\obj\Debug\net5.0\BulkyBook.Models.AssemblyInfo.cs
@@ -10,3 +9,4 @@ C:\Users\prayal\Desktop\Personal\Learning\Current\code\asp.netcore-mvc\BulkyBook
 C:\Users\prayal\Desktop\Personal\Learning\Current\code\asp.netcore-mvc\BulkyBook\BulkyBook.Models\obj\Debug\net5.0\BulkyBook.Models.dll
 C:\Users\prayal\Desktop\Personal\Learning\Current\code\asp.netcore-mvc\BulkyBook\BulkyBook.Models\obj\Debug\net5.0\ref\BulkyBook.Models.dll
 C:\Users\prayal\Desktop\Personal\Learning\Current\code\asp.netcore-mvc\BulkyBook\BulkyBook.Models\obj\Debug\net5.0\BulkyBook.Models.pdb
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\asp.netcore-mvc\BulkyBook\BulkyBook.Models\obj\Debug\net5.0\BulkyBook.Models.csproj.AssemblyReference.cache
