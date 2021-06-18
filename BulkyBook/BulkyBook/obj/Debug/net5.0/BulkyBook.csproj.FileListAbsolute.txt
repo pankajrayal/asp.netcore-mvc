@@ -445,4 +445,4 @@ C:\Users\prayal\Desktop\Personal\Learning\Current\code\asp.netcore-mvc\BulkyBook
 C:\Users\prayal\Desktop\Personal\Learning\Current\code\asp.netcore-mvc\BulkyBook\BulkyBook\obj\Debug\net5.0\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
 C:\Users\prayal\Desktop\Personal\Learning\Current\code\asp.netcore-mvc\BulkyBook\BulkyBook\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
 C:\Users\prayal\Desktop\Personal\Learning\Current\code\asp.netcore-mvc\BulkyBook\BulkyBook\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
-C:\Users\prayal\Desktop\Personal\Learning\Current\code\asp.netcore-mvc\BulkyBook\BulkyBook\obj\Debug\net5.0\BulkyBook.csproj.AssemblyReference.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\asp.netcore-mvc\BulkyBook\BulkyBook\obj\Debug\net5.0\BulkyBook.csprojAssemblyReference.cache
